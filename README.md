@@ -1,6 +1,6 @@
 ## Sebastian Czarnecki
 
-Wybrany zbiór danych - brak
+Wybrany zbiór danych - [Web Movies](https://snap.stanford.edu/data/web-Movies.html)
 
 (zaliczenie)
 
